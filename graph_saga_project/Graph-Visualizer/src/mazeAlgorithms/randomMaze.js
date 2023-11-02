@@ -18,3 +18,4 @@ export function randomMaze(grid, startNode, finishNode) {
   walls.sort(() => Math.random() - 0.5);
   return walls;
 }
+// you have made a change here
